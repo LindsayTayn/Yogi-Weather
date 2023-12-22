@@ -2,10 +2,36 @@ body {
   background-color: #f3d7ca;
   font-family: "Merienda", cursive;
 }
+footer {
+  border-top: 1px solid #f3d7ca;
+  font-size: 12px;
+  padding: 30px 0 0 0;
+  text-align: center;
+}
+a {
+  color: #c86b85;
+}
 .yogi-weather {
   background: #f5eee6;
   border-radius: 25px;
   margin: 40px auto;
   max-width: 600px;
   padding: 30px;
+}
+.city {
+  background-color: #f3d7ca;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  padding: 15px 20px;
+  width: 60%;
+}
+.submit-button {
+  background-color: #c86b85;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-size: 16px;
+  margin-left: 5px;
+  padding: 15px 30px;
 }
