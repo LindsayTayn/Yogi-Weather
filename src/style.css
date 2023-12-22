@@ -1,0 +1,11 @@
+body {
+  background-color: #f3d7ca;
+  font-family: "Merienda", cursive;
+}
+.yogi-weather {
+  background: #f5eee6;
+  border-radius: 25px;
+  margin: 40px auto;
+  max-width: 600px;
+  padding: 30px;
+}
