@@ -77,3 +77,9 @@ a {
   margin-top: -4px;
   font-size: 28px;
 }
+.meditation-sentence {
+  font-size: 12px;
+  margin-bottom: 30px;
+  margin-top: -15px;
+  text-align: center;
+}
