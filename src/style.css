@@ -84,8 +84,10 @@ a {
   text-align: center;
 }
 .weather-forecast {
-  margin-top: 20px;
+  margin: 20px auto;
   text-align: center;
+  display: flex;
+  justify-content: space-between;
 }
 .weather-forecast-date {
   color: #c86b85;
